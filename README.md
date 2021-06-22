@@ -1,0 +1,1 @@
+In this report, to help my friend Betty (who will soon be a mother of 3 childrend) to find the most promising neighborhoods based on her wishes, I use K means to cluster the neighborhoods of Hamburg into 6 groups based on the features of each neighborhoods(rental price, population density, percentage of the couples with children, venues categories).
